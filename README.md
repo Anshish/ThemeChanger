@@ -29,3 +29,8 @@ A Chrome extension built with React that allows users to easily customize the ba
 
 - React
 - Chrome Extension APIs
+
+- ## DEMO
+- ![Background Change](first.png)
+- ![Text Change](second.png)
+
